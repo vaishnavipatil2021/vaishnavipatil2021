@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Patil</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phogat20&label=Profile%20views&color=0e75b6&style=flat" alt="phogat20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavipatil2021&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavipatil2021" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phogat20" alt="phogat20" /></a> </p>
 
